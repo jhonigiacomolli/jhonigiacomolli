@@ -3,7 +3,6 @@
 <div style="display: flex; gap: 5px">
 
 ![card](https://github-readme-stats.vercel.app/api?username=jhonigiacomolli&icon_color=00FF00&bg_color=1F2024&title_color=00FF00&text_color=B4B4B4&hide_border=true&border_radius=0&show_icons=true&theme=dark&count_private=true&line_height=40&custom_title=Jhoni_Giacomolli_Stats)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jhonigiacomolli&icon_color=00FF00&bg_color=1F2024&title_color=00FF00&text_color=B4B4B4&hide_border=true&border_radius=0&show_icons=true&theme=dark)
 
 </div>
