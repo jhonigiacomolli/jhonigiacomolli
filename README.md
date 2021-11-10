@@ -1,4 +1,4 @@
-![JG-coding, Jhoni Giacomolli Profile](profile.png)
+![JG-coding, Jhoni Giacomolli Profile](assets/profile.png)
 
 <div style="display: flex; gap: 5px">
 
@@ -22,16 +22,16 @@ I am definitely passionate about computing, I have been working informally with 
 
 ## My Skills
 >'  
-![Skill - HTML](./html_icon.svg)
-![Skill - css](./css_icon.svg)
-![Skill - JS](./js_icon.svg)
-![Skill - TS](./ts_icon.svg)
-![Skill - React](./react_icon.svg)
-![Skill - Next](./next_icon.svg)
-![Skill - Sass](./sass_icon.svg)
-![Skill - Styled Components](./styled_components_icon.png)
-![Skill - C#](./csharp_icon.svg)
-![Skill - Php](./php_icon.svg)   
+![Skill - HTML](assets/html_icon.svg)
+![Skill - css](assets/css_icon.svg)
+![Skill - JS](assets/js_icon.svg)
+![Skill - TS](assets/ts_icon.svg)
+![Skill - React](assets/react_icon.svg)
+![Skill - Next](assets/next_icon.svg)
+![Skill - Sass](assets/sass_icon.svg)
+![Skill - Styled Components](assets/styled_components_icon.png)
+![Skill - C#](assets/csharp_icon.svg)
+![Skill - Php](assets/php_icon.svg)   
 > '
 
 </div>
